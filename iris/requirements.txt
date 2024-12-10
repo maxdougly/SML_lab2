@@ -1,0 +1,10 @@
+huggingface_hub==0.25.2
+<<<<<<< HEAD
+peft==0.3.0
+=======
+peft==0.13.2
+transformers>=4.46.3
+gradio==5.8.0
+bitsandbytes==0.45.0
+unsloth
+>>>>>>> f8b7a6cac70b098afb7034e1d09acc23d05f3c5a
