@@ -19,9 +19,9 @@ Using the *FineTome-100k dataset* and the PEFT technique with LoRA, the model is
    - Create a Gradio-based chatbot UI.
    - Deploy the app on Hugging Face Spaces.
 
-##### Result: 
-**Fine-tuned Model:** https://huggingface.co/eforse01/lora_model
-**Huggingface public URL:** https://huggingface.co/spaces/maxdougly/iris
+##### Results: 
+- **Fine-tuned Model:** https://huggingface.co/eforse01/lora_model
+- **Huggingface public URL:** https://huggingface.co/spaces/maxdougly/iris
 
 #### Task 2
 
