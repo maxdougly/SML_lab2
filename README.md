@@ -10,7 +10,7 @@ Using the *FineTome-100k dataset* and the PEFT technique with LoRA, the model is
    - Select a pre-trained LLM (Llama-3 1B from Hugging Face).
    - Use Parameter Efficient Fine-Tuning (PEFT) with LoRA for resource-efficient updates.
    - Train on the *FineTome-100k dataset* open-source instruction-tuning dataset designed for multi-turn conversational fine-tuning of large language models.
-   - Train for one epoch and periodically save and checkpoints for model weights every 1,250th step.
+   - Train for one epoch and periodically save and checkpoints for model weights every 500 steps.
 
 2. **Save the Model on Hugging Face**:
    - Once the model is trainded, store it on Hugging Face for integration into user interface.
